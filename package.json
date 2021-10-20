@@ -1,6 +1,6 @@
 {
   "name": "corelib-test",
-  "version": "0.1.147",
+  "version": "0.0.1-electron900",
   "description": "corelib",
   "main": "build/main.js",
   "scripts": {
