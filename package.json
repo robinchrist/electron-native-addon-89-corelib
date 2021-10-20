@@ -32,7 +32,7 @@
         "os": "linux",
         "arch": "x64",
         "runtime": "electron",
-        "runtimeVersion": "9.0.0",
+        "runtimeVersion": "8.5.5",
         "toolchainFile": null
       }
     ],
